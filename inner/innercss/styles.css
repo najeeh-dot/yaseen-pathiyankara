@@ -2990,7 +2990,7 @@ img.u-pull-left {
 }
 
 .bricks-wrapper .entry__title {
-    font-size      : var(--text-xl);
+
     font-weight    : 400;
     line-height    : calc(var(--vspace-1) + var(--vspace-0_125));
     letter-spacing : -0.02em;

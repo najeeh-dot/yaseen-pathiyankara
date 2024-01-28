@@ -10593,3 +10593,19 @@ textarea {
     transition: 1s;
    }
    /* CSS */
+
+   @media only screen and (max-width: 768px){
+    html,
+    body{
+    width:100%;
+    overflow-x:hidden;
+    }
+}
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face {
+  font-family: anekl;
+  src: url(AnekMalayalam-Light.ttf);
+}
