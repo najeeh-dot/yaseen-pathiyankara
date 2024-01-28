@@ -286,7 +286,7 @@ a img.aligncenter {
     border-radius: 3px;
     box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
     clip: auto !important;
-    color: #21759b;
+    color: #0b497c;
     display: block;
     font-size: 14px;
     font-size: 0.875rem;
@@ -320,7 +320,7 @@ a img.aligncenter {
   right: 15px;
   top: 20px;
   cursor: pointer;
-  background: #076799;
+  background: #0b497c;
   padding: 10px;
   -webkit-transform: rotateY(0);
           transform: rotateY(0);
@@ -374,7 +374,7 @@ a img.aligncenter {
 .menu__list {
   margin: 0;
   padding: 0;
-  background: #076799;
+  background: #0b497c;
   list-style-type: none;
   -webkit-transform: translate3d(0, -100%, 0);
           transform: translate3d(0, -100%, 0);
@@ -537,7 +537,7 @@ a img.aligncenter {
   bottom: 40px;
   right: 60px;
   margin: 0;
-  color: #076799;
+  color: #0b497c;
 }
 
 .page-view .project:nth-child(1) {
@@ -963,7 +963,7 @@ xclip
 	top: 180%;
 	width: 160%;
 	height: 190%;
-	background-color: #076799;
+	background-color: #0b497c;
 	border-radius: 50%;
 	display: block;
 	transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
@@ -972,16 +972,16 @@ xclip
 
 .hover-effect-new:hover {
 	color: #ffffff;
-	border: 1px solid #076799;
+	border: 1px solid #0b497c;
 }
 .hover-effect-new:hover::before {
 	top: -35%;
-	background-color: #076799;
+	background-color: #0b497c;
 	transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
 }
 .hover-effect-new:hover::after {
 	top: -45%;
-	background-color: #076799;
+	background-color: #0b497c;
 	transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
 }
 
@@ -1017,7 +1017,7 @@ xclip
 	text-align: center;
 	line-height: 90px;
 	margin: 0 auto;
-	background: #076799;
+	background: #0b497c;
 	border-radius: 20px;
 }
 .ser-icon i{
@@ -1212,7 +1212,7 @@ xclip
 }
 
 .desc h3 i {
-    color: #076799;
+    color: #0b497c;
     font-size: 37px;
     vertical-align: middle;
     margin-right: 12px;
@@ -1222,7 +1222,7 @@ xclip
     padding: 30px;
     position: relative;
     background: rgba(255,255,255,0.9);
-    border: 4px solid #076799;
+    border: 4px solid #0b497c;
 	border-radius: 100px;
 }
 
@@ -1239,7 +1239,7 @@ xclip
 
 .testimonial_img{
 	display: inline-block;
-	border: 4px solid #076799;
+	border: 4px solid #0b497c;
 	border-radius: 20px;
 }
 
@@ -1323,7 +1323,7 @@ xclip
 	font-size: 16px;
 }
 .pricing-table .list-group .list-group-item:hover{
-	color: #076799;
+	color: #0b497c;
 }
 
 .btn-secondary{
@@ -1566,7 +1566,7 @@ xclip
 }
 
 .hover-up{
-	background: #076799;
+	background: #0b497c;
 }
 
 .service-widget .post-media_pp .hover-up{
@@ -1750,7 +1750,7 @@ hr.invis1 {
 }
 
 .filter-button-group button.active{
-	background: #076799;
+	background: #0b497c;
 	color: #fff;
 }
 
@@ -1780,7 +1780,7 @@ hr.invis1 {
     text-align: center;
     overflow: hidden;
     position: relative;
-	border: 10px solid #076799;
+	border: 10px solid #0b497c;
 }
 .gallery-single img{
     width: 100%;
@@ -1848,7 +1848,7 @@ hr.invis1 {
 .gallery-single .title{
     font-size: 22px;
     font-weight: 700;
-    color: #076799;
+    color: #0b497c;
     letter-spacing: 1px;
     text-transform: uppercase;
     margin: 0 0 3px 0;
@@ -1887,7 +1887,7 @@ hr.invis1 {
     width: 40px;
     height: 40px;
     line-height: 40px;
-    background: #076799;
+    background: #0b497c;
     font-size: 20px;
     color: #fff;
     margin-bottom: 10px;
@@ -2336,7 +2336,7 @@ select.mobile-device {
 }
 
 .contact_form .form-control:focus {
-	border: 2px solid #076799;
+	border: 2px solid #0b497c;
 }
 
 .contact_form textarea {
@@ -2576,7 +2576,7 @@ select.mobile-device {
 }
 
 .footer-distributed .footer-company-name a{
-	color: #076799;
+	color: #0b497c;
 }
 
 .footer-distributed .footer-company-name a:hover{
@@ -2608,7 +2608,7 @@ select.mobile-device {
 }
 
 .ph-links-column a{
-	color: #076799;
+	color: #0b497c;
 	display: block;
 	line-height: 34px;
 	font-size: 16px;
@@ -2675,7 +2675,7 @@ select.mobile-device {
 }
 
 .dmtop:hover{
-	background-color: #076799;
+	background-color: #0b497c;
 }
 
 .icon_wrap {
@@ -2857,7 +2857,7 @@ select.mobile-device {
 	position: relative;
 }
 .banner h2::after {
-    background: #076799;
+    background: #0b497c;
     content: "";
     height: 35px;
     left: -15px;
@@ -2883,10 +2883,10 @@ select.mobile-device {
 	font-weight: 500;
 }
 .page-title-link li a:hover {
-	color: #076799;
+	color: #0b497c;
 }
 .page-title-link li::after {
-    background: #076799;
+    background: #0b497c;
     bottom: 11px;
     content: "";
     height: 2px;
