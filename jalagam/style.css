@@ -320,7 +320,7 @@ a img.aligncenter {
   right: 15px;
   top: 20px;
   cursor: pointer;
-  background: #f9ba1f;
+  background: #076799;
   padding: 10px;
   -webkit-transform: rotateY(0);
           transform: rotateY(0);
@@ -374,7 +374,7 @@ a img.aligncenter {
 .menu__list {
   margin: 0;
   padding: 0;
-  background: #f9ba1f;
+  background: #076799;
   list-style-type: none;
   -webkit-transform: translate3d(0, -100%, 0);
           transform: translate3d(0, -100%, 0);
@@ -537,7 +537,7 @@ a img.aligncenter {
   bottom: 40px;
   right: 60px;
   margin: 0;
-  color: #f9ba1f;
+  color: #076799;
 }
 
 .page-view .project:nth-child(1) {
@@ -963,7 +963,7 @@ xclip
 	top: 180%;
 	width: 160%;
 	height: 190%;
-	background-color: #f9ba1f;
+	background-color: #076799;
 	border-radius: 50%;
 	display: block;
 	transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
@@ -972,16 +972,16 @@ xclip
 
 .hover-effect-new:hover {
 	color: #ffffff;
-	border: 1px solid #f9ba1f;
+	border: 1px solid #076799;
 }
 .hover-effect-new:hover::before {
 	top: -35%;
-	background-color: #f9ba1f;
+	background-color: #076799;
 	transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
 }
 .hover-effect-new:hover::after {
 	top: -45%;
-	background-color: #f9ba1f;
+	background-color: #076799;
 	transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
 }
 
@@ -1017,7 +1017,7 @@ xclip
 	text-align: center;
 	line-height: 90px;
 	margin: 0 auto;
-	background: #f9ba1f;
+	background: #076799;
 	border-radius: 20px;
 }
 .ser-icon i{
@@ -1212,7 +1212,7 @@ xclip
 }
 
 .desc h3 i {
-    color: #f9ba1f;
+    color: #076799;
     font-size: 37px;
     vertical-align: middle;
     margin-right: 12px;
@@ -1222,7 +1222,7 @@ xclip
     padding: 30px;
     position: relative;
     background: rgba(255,255,255,0.9);
-    border: 4px solid #f9ba1f;
+    border: 4px solid #076799;
 	border-radius: 100px;
 }
 
@@ -1239,7 +1239,7 @@ xclip
 
 .testimonial_img{
 	display: inline-block;
-	border: 4px solid #f9ba1f;
+	border: 4px solid #076799;
 	border-radius: 20px;
 }
 
@@ -1323,7 +1323,7 @@ xclip
 	font-size: 16px;
 }
 .pricing-table .list-group .list-group-item:hover{
-	color: #f9ba1f;
+	color: #076799;
 }
 
 .btn-secondary{
@@ -1750,7 +1750,7 @@ hr.invis1 {
 }
 
 .filter-button-group button.active{
-	background: #f9ba1f;
+	background: #076799;
 	color: #fff;
 }
 
@@ -1780,7 +1780,7 @@ hr.invis1 {
     text-align: center;
     overflow: hidden;
     position: relative;
-	border: 10px solid #f9ba1f;
+	border: 10px solid #076799;
 }
 .gallery-single img{
     width: 100%;
@@ -1848,7 +1848,7 @@ hr.invis1 {
 .gallery-single .title{
     font-size: 22px;
     font-weight: 700;
-    color: #f9ba1f;
+    color: #076799;
     letter-spacing: 1px;
     text-transform: uppercase;
     margin: 0 0 3px 0;
@@ -1887,7 +1887,7 @@ hr.invis1 {
     width: 40px;
     height: 40px;
     line-height: 40px;
-    background: #f9ba1f;
+    background: #076799;
     font-size: 20px;
     color: #fff;
     margin-bottom: 10px;
@@ -2336,7 +2336,7 @@ select.mobile-device {
 }
 
 .contact_form .form-control:focus {
-	border: 2px solid #f9ba1f;
+	border: 2px solid #076799;
 }
 
 .contact_form textarea {
@@ -2576,7 +2576,7 @@ select.mobile-device {
 }
 
 .footer-distributed .footer-company-name a{
-	color: #f9ba1f;
+	color: #076799;
 }
 
 .footer-distributed .footer-company-name a:hover{
@@ -2608,7 +2608,7 @@ select.mobile-device {
 }
 
 .ph-links-column a{
-	color: #f9ba1f;
+	color: #076799;
 	display: block;
 	line-height: 34px;
 	font-size: 16px;
@@ -2675,7 +2675,7 @@ select.mobile-device {
 }
 
 .dmtop:hover{
-	background-color: #f9ba1f;
+	background-color: #076799;
 }
 
 .icon_wrap {
@@ -2857,7 +2857,7 @@ select.mobile-device {
 	position: relative;
 }
 .banner h2::after {
-    background: #f9ba1f;
+    background: #076799;
     content: "";
     height: 35px;
     left: -15px;
@@ -2883,10 +2883,10 @@ select.mobile-device {
 	font-weight: 500;
 }
 .page-title-link li a:hover {
-	color: #f9ba1f;
+	color: #076799;
 }
 .page-title-link li::after {
-    background: #f9ba1f;
+    background: #076799;
     bottom: 11px;
     content: "";
     height: 2px;
